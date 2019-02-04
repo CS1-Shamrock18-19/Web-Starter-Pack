@@ -1,4 +1,4 @@
-#WebSite Challenges
+# WebSite Challenges
 
 You will make multiple website layouts that follow certain rules.  The content is not important.  I am looking to see if you can arrange the HTML and CSS correctly.
 
