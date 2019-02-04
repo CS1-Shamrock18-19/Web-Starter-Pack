@@ -22,16 +22,16 @@ This website is a "tiled" website.  The goal is to use the floats and percents p
   |----header width:100% height:100px background-color:gray
 
   |----section
-      |----div width:50% background-color: red
-      |----div width 50% background-color: blue
+      |----div height: 200px width:50% background-color: red
+      |----div height: 200px width 50% background-color: blue
 
   |----section
-      |----div width 25% background-color: red
-      |----div width 75% background-color: blue
+      |----div height: 200px width 25% background-color: red
+      |----div height: 200px width 75% background-color: blue
 
   |----section
-      |----div width 66.66% background-color: red
-      |----div width 33.33% background-color: blue
+      |----div height: 200px width 66.66% background-color: red
+      |----div height: 200px width 33.33% background-color: blue
 
   |----footer width:100% height:100px background-color:black
 </pre>
