@@ -81,7 +81,9 @@ The goal here is to copy and paste your c3 content and make it look for like ESP
 --|----|----|----|div  //ads
 --|----|----|----|div  //ads
 --|----|----|----|div  //ads
---|----|----|main
+
+--|----|----|main  //copy from c3
+
 --|----|----|aside
 --|----|----|----|div  //ad
 --|----|----|----|div  //ads
