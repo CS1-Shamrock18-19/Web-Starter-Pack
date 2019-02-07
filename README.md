@@ -47,18 +47,44 @@ This website is designed to represent a typical "news feed" like article.  This 
 <pre>
 --|body
   |
-  |----|articles  width:400px; padding:8px; border:8px; border-radius:4px;
+  |----|article  width:400px; padding:8px; border:8px; border-radius:4px;
        |----|h3   margin:0;
        |----|img  width:400px;
        |----|p
 
-  |----|articles  same as above
+  |----|article  same as above
        |----|h3   
        |----|img  
        |----|p
 
-  |----|articles  same as above
+  |----|article  same as above
        |----|h3   
        |----|img  
        |----|p
+</pre>
+
+## Challenge 4
+The goal here is to copy and paste your c3 content and make it look for like ESPN.
+
+-  Your layout should be three giant boxes floated to the left
+    -  aside  15% width
+    -  main 70% width
+    -  aside 15% width
+-  All of your code from c3 should be copied into the main box.
+-  Make the body's background-color gray
+-  Fill each aside with tiny divs of the same width ie 100% but give them a margin-bottom property of 32px.  Also give each div a background color of your choice but keep them all the same color.
+<pre>
+--|body
+--|----|section
+--|----|----|aside
+--|----|----|----|div  //ad
+--|----|----|----|div  //ads
+--|----|----|----|div  //ads
+--|----|----|----|div  //ads
+--|----|----|main
+--|----|----|aside
+--|----|----|----|div  //ad
+--|----|----|----|div  //ads
+--|----|----|----|div  //ads
+--|----|----|----|div  //ads
 </pre>
