@@ -35,3 +35,30 @@ This website is a "tiled" website.  The goal is to use the floats and percents p
 
   |----footer width:100% height:100px background-color:black
 </pre>
+
+## Challenge 3
+This website is designed to represent a typical "news feed" like article.  This will include a title a picture and a description.  **You should create 3 of your own articles**.  Here are some of the css properties that you should use to make it look good.
+
+-  padding: #px;  //this makes sure your words do not touch the edge of your box.
+-  margin: #px;  //this makes sure your boxes do not touch each other
+-  border: #px solid black;  //has 3 inputs, creates a border around your box.
+-  border-radius: #px; //rounds the corner of your boxes.
+
+<pre>
+--|body
+  |
+  |----|articles  width:400px; padding:8px; border:8px; border-radius:4px;
+       |----|h3   margin:0;
+       |----|img  width:400px;
+       |----|p
+
+  |----|articles  same as above
+       |----|h3   
+       |----|img  
+       |----|p
+
+  |----|articles  same as above
+       |----|h3   
+       |----|img  
+       |----|p
+</pre>
